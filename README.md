@@ -1,16 +1,16 @@
 # Projeto: buscaPassagens
 
-**Data de Criação**: Tue Sep 10 13:57:14 BRT 2024
+**Data de Criação**: 2024-09-10 13:57:14.55
 **Status**: Ativo
 **Caminho do Projeto**: C:/projetos/teste//buscaPassagens
 
 ## Descrição
 
-Programa para buscar passagens aereas
+Programa para buscar passagens aéreas, comparando preços, milhas, valores em tempo real
 
 ## Detalhes do Projeto
 
-- **ID do Projeto**: null
+- **ID do Projeto**: 1
 - **Nome do Projeto**: buscaPassagens
 - **Diretório de Desenvolvimento Local**: C:/projetos/teste/
 - **Diretório do Git**: https://github.com/candradebh/buscaPassagens
