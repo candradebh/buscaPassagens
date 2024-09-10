@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Sistema para buscar passagens aéreas, comparando preços, milhas e valores.
+Sistema para buscar passagens aéreas, comparando preços, milhas e valores....
 
 ## Detalhes do Projeto
 
@@ -29,11 +29,11 @@ C:/projetos/teste//buscaPassagens
 Este caminho é composto pelo diretório de desenvolvimento local seguido do nome do projeto.
 ## Linguagens de Programação
 
-- **VUEJS** 
-- **JAVA - versão: 8** 
+- **JAVASCRIPT v2.6.14** 
+- **JAVA v8** 
 
 ## Frameworks
 
-- **SPRING**
-- **VUEJS**
+- **SPRING v2.7.7**
+- **2.6.14**
 
