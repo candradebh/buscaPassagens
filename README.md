@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Programa para buscar passagens aéreas, comparando preços, milhas, valores em tempo real. 
+Programa para buscar passagens aéreas, comparando preços, milhas e valores.
 
 ## Detalhes do Projeto
 
@@ -27,3 +27,12 @@ C:/projetos/teste//buscaPassagens
 ```
 
 Este caminho é composto pelo diretório de desenvolvimento local seguido do nome do projeto.
+## Linguagens de Programação
+
+- **LANGUAGE1**: VUEJS
+
+## Frameworks
+
+- **FRAMEWORK1**: SPRING
+- **FRAMEWORK2**: VUEJS
+
