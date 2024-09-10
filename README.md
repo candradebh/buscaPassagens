@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Programa para buscar passagens aéreas, comparando preços, milhas, valores em tempo real. Pode gerar avisos!
+Programa para buscar passagens aéreas, comparando preços, milhas, valores em tempo real. 
 
 ## Detalhes do Projeto
 
